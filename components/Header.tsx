@@ -20,7 +20,7 @@ const Header = () => {
         alignItems="center"
         >
             <Box>
-                <Image src="/assets/icons/homefillGas.svg" alt=""/>
+                <Image src="/assets/icons/homefillgas.svg" alt=""/>
             </Box>
             <Flex display={['none', 'none', 'none', 'flex']}  columnGap="3.5rem">
            <Text cursor="pointer" fontWeight="500">

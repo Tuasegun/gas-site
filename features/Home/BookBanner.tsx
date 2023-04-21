@@ -19,7 +19,7 @@ export const BookBanner = () => {
             <Box zIndex="-1" pos="absolute" left={["-30%","0"]} bottom="0">
                 <Image src="/assets/icons/bookIconLeft.svg" alt=""/>
             </Box>
-            <Box zIndex="-1" pos="absolute" right={["-30%","0"]} top={["-30%", "50%"]}>
+            <Box zIndex="-1" pos="absolute" right={["-30%","0"]} top={["-30%", "30%"]}>
                 <Image  zIndex="-1" src="/assets/icons/bookIconRight.svg" alt=""/>
             </Box>
             <Box  zIndex="-1" pos="absolute" top={["0%","10%"]} left="15%">
